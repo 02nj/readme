@@ -1,16 +1,9 @@
-<div align="center">
+# 🌌 Welcome to the Void
 
-# 🌌 THE VOID
+> "Silence is the ultimate sophistication."
 
-`  Status: Offline. Building in the shadows.  `
+### 🛠️ Core Tech Stack
+`Node.js` • `TypeScript` • `Next.js` • `Docker` 
 
----
-
-### 🛠️ Ecosystem
-```js
-const developer = {
-    languages:  ["TypeScript", "JavaScript"],
-    backend:    ["Node.js", "Express"],
-    database:   ["MongoDB", "PostgreSQL", "Redis"],
-    focus:      ["Automation", "Scalable Systems", "Clean Architecture"]
-};
+### 📊 My Underground Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=02nj&show_icons=true&theme=tokyonight)
