@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning Servers To Empire <br>
+Turning Servers To Empires <br>
 
 
 ## 🌐 Socials:
